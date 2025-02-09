@@ -1,2 +1,2 @@
-# 7.-Calendario
-Calendario
+# 7.-Juego Ahorcado
+Juego Ahorcado
